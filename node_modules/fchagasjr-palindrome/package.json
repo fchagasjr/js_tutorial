@@ -1,0 +1,23 @@
+{
+  "name": "fchagasjr-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fchagasjr/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Francisco das Chagas Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fchagasjr/palindrome/issues"
+  },
+  "homepage": "https://github.com/fchagasjr/palindrome#readme"
+}
